@@ -1,2 +1,2 @@
 # VEXChallenge
-VEX robotics challenge code to through tennis balls over a wall, written in RobotC
+VEX robotics challenge code to throw tennis balls over a wall, written in RobotC
