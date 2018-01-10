@@ -8,7 +8,7 @@ Challenge 1 was to pick up the tennis ball and place it in the black square, go 
 
 ### Challenge 2
 Challenge 2 was to pick up the tennis ball on the left side at the maximum length of the arm, place it in the right-most black square which is 5 inches shorter than the maximum length of the arm. After that, the robot must pick up the right-most ball and place it at the left-most black square in 13 seconds. The challenge was completed in 12.  
-![Challenge 2 Design](Challenge Videos & Designs/Challenge 2 Design.JPG)
+![Challenge 2 Design](Challenge Videos & Designs/Challenge 2 Design.png)
 
 ### Challenge 3
 Challenge 3 was to pick up 3 tennis balls in a line and place them within a tennis ball tube, go around to pick up 3 more tennis balls and place them in another tube as well. The two lines of 3 tennis balls were parallel to each other. The challenge was to be completed within 3 minutes, and was timed to be completed in 2 minutes and 31 seconds.
